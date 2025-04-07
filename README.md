@@ -7,3 +7,8 @@
 - 👉 [Website 1](https://xeno.now)
 
 - 👉 [Website 2](https://xeno-now.pages.dev)
+
+## JJSploit
+- 👉 [Releases](https://github.com/murderdrones095/executors-roblox/releases/tag/jjsploit)
+
+- 👉 [Website](https://wearedevs.net)
